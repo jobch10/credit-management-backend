@@ -1,0 +1,17 @@
+{
+  "entityType": "NATURAL",
+  "documentTypeCode": "DNI",
+  "documentNumber": "70000007",
+  "legalName": "Ana Ruiz",
+  "email": "ana.ruiz@example.com",
+  "phone": "987654327",
+  "address": "Calle Las Begonias 123, San Isidro",
+  "clientCode": "CLI-00000007",
+  "riskLevel": "BAJO",
+  "creditScore": 710,
+  "monthlyIncome": 3500.00,
+  "economicActivity": "Docente",
+  "creditLimit": 7000.00,
+  "availableCredit": 7000.00,
+  "notes": "Estable"
+}

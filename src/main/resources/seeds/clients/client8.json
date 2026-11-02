@@ -1,0 +1,17 @@
+{
+  "entityType": "NATURAL",
+  "documentTypeCode": "DNI",
+  "documentNumber": "70000008",
+  "legalName": "Ricardo Luna",
+  "email": "ricardo.luna@example.com",
+  "phone": "987654328",
+  "address": "Av. La Marina 2500, San Miguel",
+  "clientCode": "CLI-00000008",
+  "riskLevel": "MEDIO",
+  "creditScore": 640,
+  "monthlyIncome": 3200.00,
+  "economicActivity": "Transportista",
+  "creditLimit": 5000.00,
+  "availableCredit": 5000.00,
+  "notes": "Recurrente"
+}

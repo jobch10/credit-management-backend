@@ -1,0 +1,13 @@
+{
+  "entityType": "NATURAL",
+  "documentTypeCode": "DNI",
+  "documentNumber": "80000006",
+  "legalName": "Silvia Roman",
+  "email": "silvia.roman@invest.com",
+  "phone": "911222337",
+  "address": "Pueblo Libre, Lima",
+  "investorCode": "INV-00000006",
+  "investmentCapacity": 30000.00,
+  "preferredRate": 16.0,
+  "notes": "Inversionista junior"
+}

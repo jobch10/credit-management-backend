@@ -1,0 +1,18 @@
+{
+  "entityType": "JURIDICA",
+  "documentTypeCode": "RUC",
+  "documentNumber": "20123456781",
+  "legalName": "Tech Solutions S.A.C.",
+  "tradeName": "TechSol",
+  "email": "contacto@techsol.pe",
+  "phone": "014455667",
+  "address": "Av. Larco 789, Miraflores",
+  "clientCode": "CLI-00000003",
+  "riskLevel": "BAJO",
+  "creditScore": 850,
+  "monthlyIncome": 25000.00,
+  "economicActivity": "Consultoria TI",
+  "creditLimit": 50000.00,
+  "availableCredit": 50000.00,
+  "notes": "Empresa con excelente historial"
+}

@@ -1,0 +1,13 @@
+{
+  "entityType": "NATURAL",
+  "documentTypeCode": "DNI",
+  "documentNumber": "80000005",
+  "legalName": "Carmen Silva",
+  "email": "carmen.silva@invest.com",
+  "phone": "911222336",
+  "address": "La Molina, Lima",
+  "investorCode": "INV-00000005",
+  "investmentCapacity": 120000.00,
+  "preferredRate": 11.5,
+  "notes": "Perfil conservador"
+}

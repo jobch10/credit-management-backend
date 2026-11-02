@@ -1,0 +1,17 @@
+{
+  "entityType": "NATURAL",
+  "documentTypeCode": "DNI",
+  "documentNumber": "70000010",
+  "legalName": "Pedro Gomez",
+  "email": "pedro.gomez@example.com",
+  "phone": "987654330",
+  "address": "Av. Petit Thouars 1500, Lince",
+  "clientCode": "CLI-00000010",
+  "riskLevel": "MEDIO",
+  "creditScore": 670,
+  "monthlyIncome": 4000.00,
+  "economicActivity": "Vendedor",
+  "creditLimit": 10000.00,
+  "availableCredit": 10000.00,
+  "notes": "Observado"
+}

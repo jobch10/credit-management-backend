@@ -1,0 +1,13 @@
+{
+  "entityType": "NATURAL",
+  "documentTypeCode": "DNI",
+  "documentNumber": "80000004",
+  "legalName": "Roberto Diaz",
+  "email": "roberto.diaz@invest.com",
+  "phone": "911222335",
+  "address": "Miraflores, Lima",
+  "investorCode": "INV-00000004",
+  "investmentCapacity": 75000.00,
+  "preferredRate": 15.0,
+  "notes": "Busca alta rentabilidad"
+}

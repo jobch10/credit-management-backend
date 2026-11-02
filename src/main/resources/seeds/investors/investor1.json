@@ -1,0 +1,13 @@
+{
+  "entityType": "NATURAL",
+  "documentTypeCode": "DNI",
+  "documentNumber": "80000001",
+  "legalName": "Fernando Perez",
+  "email": "fernando.perez@invest.com",
+  "phone": "911222333",
+  "address": "San Isdro, Lima",
+  "investorCode": "INV-00000001",
+  "investmentCapacity": 100000.00,
+  "preferredRate": 12.5,
+  "notes": "Inversionista de bajo riesgo"
+}

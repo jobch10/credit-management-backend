@@ -1,0 +1,17 @@
+{
+  "entityType": "NATURAL",
+  "documentTypeCode": "DNI",
+  "documentNumber": "70000004",
+  "legalName": "Jorge Sanchez",
+  "email": "jorge.sanchez@example.com",
+  "phone": "987654324",
+  "address": "Jr. Puno 321, Centro de Lima",
+  "clientCode": "CLI-00000004",
+  "riskLevel": "ALTO",
+  "creditScore": 580,
+  "monthlyIncome": 2500.00,
+  "economicActivity": "Operario",
+  "creditLimit": 2000.00,
+  "availableCredit": 2000.00,
+  "notes": "Riesgo alto por sobreendeudamiento"
+}

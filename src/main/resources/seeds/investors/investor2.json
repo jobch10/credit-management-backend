@@ -1,0 +1,13 @@
+{
+  "entityType": "NATURAL",
+  "documentTypeCode": "DNI",
+  "documentNumber": "80000002",
+  "legalName": "Lucia Mendez",
+  "email": "lucia.mendez@invest.com",
+  "phone": "911222334",
+  "address": "Surco, Lima",
+  "investorCode": "INV-00000002",
+  "investmentCapacity": 50000.00,
+  "preferredRate": 14.0,
+  "notes": "Interesada en creditos personales"
+}

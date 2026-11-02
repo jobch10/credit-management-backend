@@ -1,0 +1,17 @@
+{
+  "entityType": "NATURAL",
+  "documentTypeCode": "DNI",
+  "documentNumber": "70000002",
+  "legalName": "Maria Garcia",
+  "email": "maria.garcia@example.com",
+  "phone": "987654322",
+  "address": "Calle Las Flores 456, San Isidro",
+  "clientCode": "CLI-00000002",
+  "riskLevel": "MEDIO",
+  "creditScore": 650,
+  "monthlyIncome": 3800.00,
+  "economicActivity": "Vendedora Independiente",
+  "creditLimit": 8000.00,
+  "availableCredit": 8000.00,
+  "notes": "Requiere seguimiento en cobranza"
+}

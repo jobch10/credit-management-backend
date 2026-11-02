@@ -1,0 +1,17 @@
+{
+  "entityType": "NATURAL",
+  "documentTypeCode": "DNI",
+  "documentNumber": "70000005",
+  "legalName": "Elena Torres",
+  "email": "elena.torres@example.com",
+  "phone": "987654325",
+  "address": "Av. Javier Prado 1200, San Borja",
+  "clientCode": "CLI-00000005",
+  "riskLevel": "BAJO",
+  "creditScore": 790,
+  "monthlyIncome": 6000.00,
+  "economicActivity": "Medico",
+  "creditLimit": 25000.00,
+  "availableCredit": 25000.00,
+  "notes": "Perfil A1"
+}

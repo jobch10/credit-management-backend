@@ -1,0 +1,17 @@
+{
+  "entityType": "NATURAL",
+  "documentTypeCode": "DNI",
+  "documentNumber": "70000001",
+  "legalName": "Carlos Rodriguez",
+  "email": "carlos.rodriguez@example.com",
+  "phone": "987654321",
+  "address": "Av. Los Proceres 123, Lima",
+  "clientCode": "CLI-00000001",
+  "riskLevel": "BAJO",
+  "creditScore": 720,
+  "monthlyIncome": 4500.00,
+  "economicActivity": "Empleado Administrativo",
+  "creditLimit": 15000.00,
+  "availableCredit": 15000.00,
+  "notes": "Cliente puntual con sus pagos"
+}

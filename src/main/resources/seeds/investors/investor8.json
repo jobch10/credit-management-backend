@@ -1,0 +1,13 @@
+{
+  "entityType": "NATURAL",
+  "documentTypeCode": "DNI",
+  "documentNumber": "80000008",
+  "legalName": "Monica Flores",
+  "email": "monica.flores@invest.com",
+  "phone": "911222339",
+  "address": "Chorrillos, Lima",
+  "investorCode": "INV-00000008",
+  "investmentCapacity": 40000.00,
+  "preferredRate": 14.5,
+  "notes": "Diversificando cartera"
+}

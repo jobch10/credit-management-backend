@@ -1,0 +1,14 @@
+{
+  "entityType": "JURIDICA",
+  "documentTypeCode": "RUC",
+  "documentNumber": "20998877661",
+  "legalName": "Inversiones Globales S.A.",
+  "tradeName": "InvGlobal",
+  "email": "corp@invglobal.pe",
+  "phone": "015554433",
+  "address": "San Borja, Lima",
+  "investorCode": "INV-00000003",
+  "investmentCapacity": 500000.00,
+  "preferredRate": 10.0,
+  "notes": "Inversionista institucional"
+}

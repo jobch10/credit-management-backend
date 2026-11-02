@@ -1,0 +1,17 @@
+{
+  "entityType": "NATURAL",
+  "documentTypeCode": "DNI",
+  "documentNumber": "70000009",
+  "legalName": "Sofia Castro",
+  "email": "sofia.castro@example.com",
+  "phone": "987654329",
+  "address": "Calle San Martin 456, Magdalena",
+  "clientCode": "CLI-00000009",
+  "riskLevel": "BAJO",
+  "creditScore": 760,
+  "monthlyIncome": 5500.00,
+  "economicActivity": "Ingeniera",
+  "creditLimit": 20000.00,
+  "availableCredit": 20000.00,
+  "notes": "Excelente cumplimiento"
+}

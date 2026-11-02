@@ -1,0 +1,17 @@
+{
+  "entityType": "NATURAL",
+  "documentTypeCode": "DNI",
+  "documentNumber": "70000006",
+  "legalName": "Luis Paredes",
+  "email": "luis.paredes@example.com",
+  "phone": "987654326",
+  "address": "Av. Brasil 1500, Jesus Maria",
+  "clientCode": "CLI-00000006",
+  "riskLevel": "MEDIO",
+  "creditScore": 680,
+  "monthlyIncome": 4200.00,
+  "economicActivity": "Contador",
+  "creditLimit": 12000.00,
+  "availableCredit": 12000.00,
+  "notes": "Buen historial"
+}
